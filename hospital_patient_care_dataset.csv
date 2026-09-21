@@ -1,0 +1,21 @@
+patient_id,patient_name,age,gender,department,doctor,appointment_date,scheduled_time,actual_consultation_time,appointment_status,lab_test,lab_result,spo2,heart_rate,diagnosis
+2001,Aarav,29,M,General Medicine,Dr. Verma,2026-09-21,09:40,10:13,Booked,Glucose,169.5,97,77,Pre-Diabetes
+2002,Diya,35,M,General Medicine,Dr. Verma,2026-09-21,10:30,10:42,Completed,Cholesterol,233.2,92,102,High Cholesterol
+2003,Rohan,76,F,General Medicine,Dr. Verma,2026-09-21,10:50,11:15,Cancelled,Cholesterol,199.7,99,94,High Cholesterol
+2004,Ananya,24,M,Neurology,Dr. Sharma,2026-09-21,10:30,10:51,Cancelled,Glucose,180.2,98,105,Hypertension
+2005,Vikram,68,F,Cardiology,Dr. Nair,2026-09-21,11:30,12:08,Cancelled,Glucose,179.9,93,100,Hypertension
+2006,Meera,68,M,Cardiology,Dr. Nair,2026-09-21,11:30,12:29,Completed,Blood Test,14.2,89,114,Migraine
+2007,Kabir,76,M,Cardiology,Dr. Nair,2026-09-21,11:20,11:49,Booked,Cholesterol,194.6,91,80,Hypertension
+2008,Isha,55,F,Cardiology,Dr. Nair,2026-09-21,11:30,11:58,Completed,Cholesterol,229.2,98,99,Routine Checkup
+2009,Arjun,54,F,Neurology,Dr. Sharma,2026-09-21,11:00,11:55,Completed,Cholesterol,208.1,89,93,Routine Checkup
+2010,Sneha,69,M,Neurology,Dr. Sharma,2026-09-21,12:20,12:53,Completed,Blood Test,14.5,97,113,Anemia
+2011,Kunal,30,F,Cardiology,Dr. Nair,2026-09-21,13:50,14:50,Completed,Glucose,163.0,90,109,Diabetes
+2012,Priya,28,M,General Medicine,Dr. Verma,2026-09-21,13:40,14:16,Emergency Cancelled,Cholesterol,231.8,90,100,Hypertension
+2013,Rahul,66,M,General Medicine,Dr. Verma,2026-09-21,14:30,14:56,Booked,Blood Test,14.3,93,107,Migraine
+2014,Neha,64,M,General Medicine,Dr. Verma,2026-09-21,14:10,15:13,Booked,Glucose,148.4,95,82,Hypertension
+2015,Aditya,61,M,Cardiology,Dr. Nair,2026-09-21,15:20,15:44,Completed,Blood Test,12.2,99,114,Migraine
+2016,Pooja,74,M,Neurology,Dr. Sharma,2026-09-21,15:50,16:07,Completed,Cholesterol,231.0,97,105,Hypertension
+2017,Sanjay,78,M,Neurology,Dr. Sharma,2026-09-21,15:00,15:57,Completed,Glucose,158.3,94,104,Diabetes
+2018,Riya,68,M,Cardiology,Dr. Nair,2026-09-21,15:50,16:33,Completed,Cholesterol,202.9,89,88,High Cholesterol
+2019,Vivek,66,F,Neurology,Dr. Sharma,2026-09-21,15:50,16:45,Completed,Glucose,142.1,92,96,Hypertension
+2020,Tanvi,56,F,General Medicine,Dr. Verma,2026-09-21,16:20,17:11,Completed,Cholesterol,218.0,94,101,High Cholesterol
